@@ -1,6 +1,6 @@
 
 <div id="top"></div>
-<div align="center" ><img height="50%" width="100%" alt="welcome to my profile!" src="C:\Users\Dell\Downloads\Welcome to.... My Profile (2).gif"></div>
+<div align="center" ><img height="50%" width="100%" alt="welcome to my profile!" src="https://github.com/harshaa11th/harshaa11th/blob/main/header.gif"></div>
 <h1 align="center">Hi 👋, I'm Harsh Mani Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -44,5 +44,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshaa11th&" alt="harshaa11th" /></p>
 
-<img alt="animation" src="C:\Users\Dell\Downloads\6c0f9b95746151.5e9ecde69599e.gif">
+<img alt="animation" src="https://github.com/harshaa11th/harshaa11th/blob/main/footer.gif">
 
