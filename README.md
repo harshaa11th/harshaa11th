@@ -25,7 +25,7 @@
 <a href="https://fb.com/harsh.singh.52687506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harsh.singh.52687506" height="30" width="40" /></a>
 <a href="https://instagram.com/the.harshaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.harshaa" height="30" width="40" /></a>
 <a href="mailto:harshmanis025@gmail.com">
-    <img alt="link to send me an email" src="Gmail-logo-design-on-transparent-background-PNG.png" hieght="15" width="15"/>
+    <img alt="link to send me an email" src="Gmail-logo-design-on-transparent-background-PNG.png" hieght="25" width="25"/>
   
 </p>
 
