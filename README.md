@@ -12,6 +12,7 @@
 - 👨‍💻 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Wonderfull year full of opportunities**
+![chrome-removebg-preview-removebg-preview](https://user-images.githubusercontent.com/124580382/217093610-16e25a14-294c-49f1-b50b-46190c3893d0.png)
 
 - 🎯 All of my projects are available at  ....
 
@@ -45,8 +46,8 @@
 <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" height="40"/>
 <img src="https://camo.githubusercontent.com/a9c92e80647df26525548cfabd12b784c10016b63a9e263e7d0ab0aa8f47dddf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f77696e646f7773382f77696e646f7773382d6f726967696e616c2e737667" height="40"/>
 <img src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" height="40"/>
-<img src="https://github.com/harshaa11th/harshaa11th/blob/main/github-icon-38970.png" height="40">
-<img src="https://github.com/harshaa11th/harshaa11th/blob/main/chrome-removebg-preview.png" height="40">
+<img src="https://github.com/harshaa11th/harshaa11th/blob/main/github-icon-38970.png" height="40"/>
+<img src="https://github.com/harshaa11th/harshaa11th/blob/main/chrome-removebg-preview-removebg-preview.png" height="40"/>
 </p>
 
 <h2></h2>
