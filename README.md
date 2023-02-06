@@ -16,6 +16,7 @@
 - 🎯 All of my projects are available at  ....
 
 - 💬 Ask me about **Java, C, JavaScript, PHP,HTML,CSS,BOOTSTRAP**
+- I'm a introvert✍️😐and like to write/read **Stories and Poetries**.
 
 <h2 align="left">🔗Connect with me:</h2>
 <p align="left">
