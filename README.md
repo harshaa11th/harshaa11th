@@ -24,8 +24,8 @@
 <a href="https://linkedin.com/in/harsh-mani-singh-4305881a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-mani-singh-4305881a0" height="30" width="40" /></a>
 <a href="https://fb.com/harsh.singh.52687506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harsh.singh.52687506" height="30" width="40" /></a>
 <a href="https://instagram.com/the.harshaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.harshaa" height="30" width="40" /></a>
-<a href="mailto:harshmanis025@gmail.com">
-    <img alt="link to send me an email" src="Gmail-logo-design-on-transparent-background-PNG.png" hieght="40" width="25"/>
+<a href="mailto:harshmanis025@gmail.com" target="blank">
+    <img align="center" alt="link to send me an email" src="https://github.com/harshaa11th/harshaa11th/blob/main/Gmail-Logo-PNG-Transparent-Image-removebg-preview.png" hieght="40" width="35"/>
   
 </p>
 
@@ -40,14 +40,16 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <h2>🛠️Tools I use:</h2>
+<p align="left">
+<img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" height="40"/>
+<img src="https://camo.githubusercontent.com/4f1716199e64b894ad41f6f9a42769fa843cd48fa476d2fbe586348989b87e1f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66697265666f782f66697265666f782d6f726967696e616c2e737667" height="40"/>
+<img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" height="40"/>
+<img src="https://camo.githubusercontent.com/a9c92e80647df26525548cfabd12b784c10016b63a9e263e7d0ab0aa8f47dddf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f77696e646f7773382f77696e646f7773382d6f726967696e616c2e737667" height="40"/>
+<img src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" height="40"/>
+<img src="https://github.com/harshaa11th/harshaa11th/blob/main/github-icon-38970.png" height="40">
+<img src="https://github.com/harshaa11th/harshaa11th/blob/main/chrome-removebg-preview.png" height="40">
+</p>
 
-<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-</br></br>
 <h2></h2>
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=harshaa11th&theme=yellow&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="harshaa11th" /></p>
 
