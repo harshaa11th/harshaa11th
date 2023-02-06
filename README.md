@@ -26,8 +26,7 @@
 <a href="https://instagram.com/the.harshaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.harshaa" height="30" width="40" /></a>
 <a href="mailto:harshmanis025@gmail.com" target="blank">
     <img align="center" alt="link to send me an email" src="https://github.com/harshaa11th/harshaa11th/blob/main/Gmail-Logo-PNG-Transparent-Image-removebg-preview.png" hieght="40" width="35"/>
-  
-</p>
+  </p>
 
 <h2 align="left">👨‍💻Languages: </h2>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
