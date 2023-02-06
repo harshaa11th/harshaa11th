@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshaa11th&label=Profile%20views&color=0e75b6&style=flat" alt="harshaa11th" /> </p>
 
-<h2>🧑‍💼About me : </h2>
+<h2>📜😉About me : </h2>
 
 - 🖥️ I’m currently working on **Fullstack Web Development**
 
-- 👨‍💻 I’m currently learning **MERN Stack **
+- 👨‍💻 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **wonderfull year full of opportunities.**
+- 👯 I’m looking to collaborate on **Wonderfull year full of opportunities**
 
 - 🎯 All of my projects are available at  ....
 
 - 💬 Ask me about **Java, C, JavaScript, PHP,HTML,CSS,BOOTSTRAP**
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🔗Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/harshmanisingh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshmanisingh5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harsh-mani-singh-4305881a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-mani-singh-4305881a0" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
   
 </p>
 
-<h2 align="left">Languages </h2>
+<h2 align="left">👨‍💻Languages: </h2>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -38,7 +38,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<h2>Tools I use</h2>
+<h2>🛠️Tools I use:</h2>
 
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
@@ -51,10 +51,10 @@
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=harshaa11th&theme=yellow&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="harshaa11th" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshaa11th&show_icons=true&locale=en" alt="harshaa11th" /></p>
-<h2></h2>
+<h2>Contribution Chart</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshaa11th&" alt="harshaa11th" /></p>
-<h2></h2>
+<h2> 👀Thank-you</h2>
 <img alt="animation" src="https://github.com/harshaa11th/harshaa11th/blob/main/footer.gif">
-<p align="right">Thankyou 👀<a href="#top">
+<p align="right"><a href="#top">
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/index-pointing-up_261d-fe0f.png" height="50" width="50" alt="back to top" /></a></p>
 <h2></h2>
