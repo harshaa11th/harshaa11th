@@ -24,6 +24,9 @@
 <a href="https://linkedin.com/in/harsh-mani-singh-4305881a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-mani-singh-4305881a0" height="30" width="40" /></a>
 <a href="https://fb.com/harsh.singh.52687506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harsh.singh.52687506" height="30" width="40" /></a>
 <a href="https://instagram.com/the.harshaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.harshaa" height="30" width="40" /></a>
+<a href="mailto:harshmanis025@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=singhadityapratap370@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+  
 </p>
 
 <h3 align="left">Languages </h3>
