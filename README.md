@@ -12,7 +12,7 @@
 - 👨‍💻 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Wonderfull year full of opportunities**
-![chrome-removebg-preview-removebg-preview](https://user-images.githubusercontent.com/124580382/217093610-16e25a14-294c-49f1-b50b-46190c3893d0.png)
+
 
 - 🎯 All of my projects are available at  ....
 
