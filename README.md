@@ -2,7 +2,6 @@
 <div align="center" ><img height="50%" width="100%" alt="welcome to my profile!" src="https://github.com/harshaa11th/harshaa11th/blob/main/header.gif"></div>
 <h1 align="center">Hi 👀👋, I'm Harsh Mani Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshaa11th&label=Profile%20views&color=0e75b6&style=flat" alt="harshaa11th" /> </p>
 
 <h2>📜😉About me : </h2>
