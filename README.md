@@ -65,7 +65,7 @@
 
 
 <h2> 👀Thank-you</h2>
-<img alt="animation" src="https://github.com/harshaa11th/harshaa11th/blob/main/footer.gif">
+<img alt="animation" src="https://github.com/harshaa11th/harshaa11th/blob/main/footer.gif" height="50%" width="100%">
 <p align="right"><a href="#top">
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/index-pointing-up_261d-fe0f.png" height="50" width="50" alt="back to top" /></a></p>
 <h2></h2>
