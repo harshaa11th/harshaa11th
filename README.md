@@ -49,13 +49,21 @@
 <img src="https://github.com/harshaa11th/harshaa11th/blob/main/github-icon-38970.png" height="40"/>
 <img src="https://github.com/harshaa11th/harshaa11th/blob/main/chrome-removebg-preview-removebg-preview.png" height="40"/>
 </p>
-
+<h2>🗃️Repositories:</h2>
+<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight"></p>
 <h2></h2>
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=harshaa11th&theme=yellow&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="harshaa11th" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaa11th&langs_count=10&theme=tokyonight" alt="harshaa11th" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshaa11th&show_icons=true&locale=en" alt="harshaa11th" /></p>
-<h2>Contribution Chart</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshaa11th&" alt="harshaa11th" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=harshaa11th&show_icons=true&theme=tokyonight" alt="harshaa11th" /></p>
+<br><br><br><br><br><br>
+<h2>📈Contribution Chart:</h2>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=harshaa11th&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&show_icons=true&theme=tokyonight"/></div>
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=harshaa11th&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF" alt="harshaa11th" /></p>
+<div align="center">
+</div>
+
+
+
 <h2> 👀Thank-you</h2>
 <img alt="animation" src="https://github.com/harshaa11th/harshaa11th/blob/main/footer.gif">
 <p align="right"><a href="#top">
