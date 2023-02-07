@@ -47,8 +47,6 @@
 <img src="https://github.com/harshaa11th/harshaa11th/blob/main/github-icon-38970.png" height="40"/>
 <img src="https://github.com/harshaa11th/harshaa11th/blob/main/chrome-removebg-preview-removebg-preview.png" height="40"/>
 </p>
-<h2>🗃️Repositories:</h2>
-<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshaa11th&repo=github-readme-stats&theme=tokyonight"></p>
 <h2></h2>
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaa11th&langs_count=10&theme=tokyonight" alt="harshaa11th" /></p>
 
