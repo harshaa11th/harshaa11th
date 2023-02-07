@@ -7,7 +7,6 @@
 <h2>📜😉About me : </h2>
 
 - 🖥️ I’m currently working on **Fullstack Web Development**
-
 - 👨‍💻 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Wonderfull year full of opportunities**
